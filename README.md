@@ -13,7 +13,7 @@ Vim
 - Include in .vimrc:
 -   set pythonthreehome=~/AppData/Local/Programs/Python/Python36-32
 -   set pythonthreedll=~/AppData/Local/Programs/Python/Python36-32/python36.dll
-
+- Check which vim.exe is actually in use :). Git installs and adds to path its own git.exe (x64)
 
 Visual Studio
 - Do include clang support & other unix compatible tools
