@@ -1,0 +1,10 @@
+This is just an exploratory example of how to play around
+with libclang interface and python to get access to c/c++
+metadata.
+
+Examples are trivial and expects simple structs (POD).
+
+With this code you can enhance your code editor.
+
+I personally use clang_complete customized to lay down
+all members for structs and other snippets.
